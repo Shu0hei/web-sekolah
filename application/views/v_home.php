@@ -60,7 +60,7 @@
 												<select class="dropdown_item_select home_search_input">
 													<option>Select Price Type</option>
 													<option>Price Type</option>
-													<option>Price Type</option>
+													<option>Price Type2</option>
 												</select>
 											</div>
 											<button type="submit" class="home_search_button">search</button>
